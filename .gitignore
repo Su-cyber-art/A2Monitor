@@ -1,0 +1,15 @@
+/target/
+/web/node_modules/
+/web/dist/
+/data/
+/artifacts/
+/.env
+*.log
+.DS_Store
+*.tsbuildinfo
+**/node_modules/
+**/.env*
+/themes/emerald/dist/
+/themes/emerald/*.zip
+/themes/emerald/.eslintcache
+/web/themes/

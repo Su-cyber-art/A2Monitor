@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/Su-cyber-art/komari-theme-emerald",
+  "commit": "392149912f87bff8d22adec8a90d9e0d2e72fc0e",
+  "version": "1.0.17",
+  "assets": {
+    "repository": "https://github.com/komari-monitor/komari-web",
+    "commit": "0321789bc",
+    "paths": [
+      "public/assets/flags",
+      "public/assets/logo"
+    ]
+  }
+}
